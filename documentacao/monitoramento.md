@@ -19,9 +19,8 @@ O monitoramento envolvia o acompanhamento do funcionamento do sistema e a identi
 
 ## 🖼️ Demonstração
 
-**Inserir aqui um print da tela utilizada para monitoramento.**
-
-`[ PRINT AQUI ]`
+![configuracao do sistema](../imagens/monitoramento-1.png)
+![configuracao do sistema](../imagens/monitoramento-2.png)
 
 ## 🔧 Resolução de problemas
 
@@ -29,9 +28,7 @@ Quando um problema era identificado, era realizada uma análise para entender su
 
 ### 🖼️ Demonstração
 
-**Inserir aqui um print relacionado a algum procedimento de resolução de problema, caso seja possível.**
-
-`[ PRINT AQUI ]`
+![configuracao do sistema](../imagens/resolucao-1.png)
 
 ## ✅ Resultado
 
