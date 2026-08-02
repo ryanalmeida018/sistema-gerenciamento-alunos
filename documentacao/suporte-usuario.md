@@ -23,11 +23,9 @@ Quando um usuário apresentava uma dificuldade, o problema era analisado para id
 
 Após a solução, era realizada uma verificação para confirmar o funcionamento adequado.
 
-### 🖼️ Demonstração
+### 🖼️ Demonstração- Aplicativo utilizado pelos usuários
 
-**Inserir aqui um print de uma funcionalidade utilizada pelos usuários.**
-
-`[ PRINT AQUI ]`
+![configuracao do sistema](../imagens/app-usuarios.png)
 
 ## 📚 Competências desenvolvidas
 
