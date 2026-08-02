@@ -25,7 +25,7 @@ Após a solução, era realizada uma verificação para confirmar o funcionament
 
 ### 🖼️ Demonstração- Aplicativo utilizado pelos usuários
 
-![configuracao do sistema](../imagens/app-usuarios.png)
+![configuracao do sistema](../imagens/app-usuarios.jpg)
 
 ## 📚 Competências desenvolvidas
 
