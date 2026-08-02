@@ -18,7 +18,7 @@ Nesta etapa foram realizadas atividades relacionadas à preparação e configura
 
 ## 🖼️ Demonstração
 
-
+![configuracao do sistema](sistema-gerenciamento-alunos/imagens/teste.png)
 
 ## ✅ Resultado
 
